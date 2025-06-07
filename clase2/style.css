@@ -1,0 +1,62 @@
+/* 
+  # hace referencia a un ID
+  . hace referencia a la clase
+  y si escribo solo la etiqueta, agarro a todas en general
+
+*/
+
+#titulo {
+    color: rgb(42, 75, 165);
+}
+#titulo:hover{
+    text-align: center;
+}
+
+.texto {
+    color: aliceblue;
+    background-color: black;
+}
+
+/* 
+  # hace referencia a un ID
+  . hace referencia a la clase
+  y si escribo solo la etiqueta, agarro a todas en general
+
+*/
+
+#titulo {
+    color: rgb(42, 75, 165);
+}
+#titulo:hover{
+    text-align: center;
+}
+
+.texto {
+    color: aliceblue;
+    background-color: black;
+}
+
+button{
+    background-color: aqua;
+    padding: 150px;
+    margin: 15px;
+   
+}
+
+button.p:hover{
+    background-color: red;
+   
+
+}
+
+
+#container{
+    background-color: blueviolet;
+}
+
+.container{
+    background-color: blueviolet;
+}
+.TEXTOpARRAFO:HOVER{
+    background-color: aqua;
+}
