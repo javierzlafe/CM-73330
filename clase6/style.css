@@ -1,0 +1,23 @@
+body {
+  background-color: red;
+}
+
+.navbar {
+  background-color: aqua;
+}
+.navbar ul {
+  list-style: none;
+}
+.navbar ul li {
+  display: inline-block;
+  color: red;
+}
+
+.btn-primary {
+  background-color: aqua;
+  font-size: larger;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=style.css.map */
