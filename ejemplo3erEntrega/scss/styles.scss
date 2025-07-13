@@ -1,0 +1,21 @@
+@import 'variables';
+@import 'mixins';
+@import 'layout';
+@import 'components';
+
+body {
+  font-family: $font-stack;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: $primary-color;
+}
+
+// Responsive
+@media (max-width: 768px) {
+  .hero {
+    h2 {
+      font-size: 1.5rem;
+    }
+  }
+}

@@ -1,0 +1,86 @@
+/* trasform */
+
+/* .box{
+    transform: translateX(50px) rotate(45deg);
+    
+}
+ */
+
+
+ /* gradiantes 
+ 
+ gradiantes lineales: linear-gradient(to right,red,blue)
+ gradiante radial: radial-gradient(circle,red,blue)
+ gradiantes conicos:conicgradient(red,blue,green)
+ 
+ */
+
+
+    /* background-image: linear-gradient(#fff9f9,yellow,blue); */
+
+ 
+ 
+
+ /* transition-property:define que propiedad va a cambiar */
+
+/*  transition-duration: indicar cuanto dura el cambio 
+    transition-timing-function: controla la aceleracion de la animacion
+    (ease,linear,ease-in,ease-out
+    transition-delay: agrega un retraso a la animacion*/
+
+
+
+   /*  button{
+        background-color: aqua;
+        color:aliceblue;
+        padding: 10px 20px;
+        border:none;
+        cursor: pointer; 
+        transition: background-color 1s ease, transform 1s ease;
+    }
+
+    button:hover{
+        background-color: rgb(28, 14, 14);
+        transform: scale(1.);
+        } */
+
+
+    
+        /*@keyframes: definen los estados de las animaciones
+        animation-name: especifica el nombre de la animacion
+        animation-duration: define la duracion en segundos
+        animation-interation-count:determina cuantas veces se va a repetir la animacion
+        animation-direction: define la direccion.
+          */
+
+
+
+
+
+
+
+         /*  .box{
+            width: 100px;
+            height: 100px;
+            background-color: brown;
+            animation: mover 2s infinite;
+          }
+
+          .girar{
+            animation: girar 2s linear;
+          }
+
+          @keyframes mover{
+            0%{transform:translateX(0);}
+            50%{transform:translateX(100px);}
+            100%{transform:translateX(0px);}
+          }
+
+
+          @keyframes girar{
+            0%{transform: rotate(0deg);}
+            100%{transform: rotate(360deg);}
+          }
+ */
+
+ 
